@@ -1,0 +1,7 @@
+D:\C-sharp Course\Lecture01VariablesAndDataTypes\Lecture01VariablesAndDataTypes\bin\Debug\Lecture01VariablesAndDataTypes.exe.config
+D:\C-sharp Course\Lecture01VariablesAndDataTypes\Lecture01VariablesAndDataTypes\bin\Debug\Lecture01VariablesAndDataTypes.exe
+D:\C-sharp Course\Lecture01VariablesAndDataTypes\Lecture01VariablesAndDataTypes\bin\Debug\Lecture01VariablesAndDataTypes.pdb
+D:\C-sharp Course\Lecture01VariablesAndDataTypes\Lecture01VariablesAndDataTypes\obj\Debug\Lecture01VariablesAndDataTypes.csprojAssemblyReference.cache
+D:\C-sharp Course\Lecture01VariablesAndDataTypes\Lecture01VariablesAndDataTypes\obj\Debug\Lecture01VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+D:\C-sharp Course\Lecture01VariablesAndDataTypes\Lecture01VariablesAndDataTypes\obj\Debug\Lecture01VariablesAndDataTypes.exe
+D:\C-sharp Course\Lecture01VariablesAndDataTypes\Lecture01VariablesAndDataTypes\obj\Debug\Lecture01VariablesAndDataTypes.pdb
